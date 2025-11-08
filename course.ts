@@ -26,7 +26,7 @@ type Tcourse = {
 
 const course: Tcourse = {
     id: '2',
-    name: 'Backend development 2.0',
+    name: 'Backend development 2.0 and also',
     price: 12000,
     mentor: {
         name: 'Sakibul Islam',
